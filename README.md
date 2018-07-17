@@ -24,4 +24,6 @@ Resources are listed below
 
 https://keras.io/getting-started/sequential-model-guide/
 https://www.cnn.com/2017/09/18/health/opioid-crisis-fast-facts/index.html
-https://www.kaggle.com/greenmaverick/predictopioidprescribers-nn-binaryclassification/data
+
+Data:
+https://www.kaggle.com/apryor6/us-opiate-prescriptions
